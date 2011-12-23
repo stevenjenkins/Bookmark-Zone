@@ -1,4 +1,4 @@
-Sass::Plugin.options.merge! (
+Sass::Plugin.options.merge!(
     :template_location => 'public/stylesheets/sass',
     :css_location => 'tmp/stylesheets'
     )
